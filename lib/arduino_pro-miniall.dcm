@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ARDUINO_Pro-MiniALL
+D ARDUINO Pro Mini all pins
+K U ARDUINO MINI
+F Arduino/Arduino-Pro-Mini-v13.pdf
+$ENDCMP
+#
+#End Doc Library
