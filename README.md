@@ -1,6 +1,4 @@
 # KicadDrawBridgePlus
-![PCB render in Kicad](img/drawbridge_rev4_render.jpg)
-
 PCB design I've made for the DrawBridge Plus! project by Robert Smith. Based on DrawBridge Plus! schematic.
 Visit author's page for more information about the project: http://amiga.robsmithdev.co.uk/
 
